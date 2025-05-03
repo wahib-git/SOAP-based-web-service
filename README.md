@@ -19,7 +19,7 @@ This project is a Spring Boot application that provides a SOAP-based web service
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/currency-conversion-service.git
+https://github.com/wahib-git/SOAP-based-web-service.git
 cd currency-conversion-service
 ```
 
